@@ -6,6 +6,7 @@ Apple Picker is a 3D Unity game where the player controls baskets at the bottom 
 
 The game also includes branches that the player must avoid. Catching a branch causes the game to end.
 
+
 Features
 
 Start screen with a Start button
@@ -32,6 +33,7 @@ Branches appear less frequently than apples
 
 Player-controlled baskets follow the mouse
 
+
 How to Play
 
 Click the Start button to begin the game.
@@ -45,6 +47,7 @@ Avoid catching branches.
 Losing all of the baskets or catching a branch results in Game Over.
 
 Click Restart to play again.
+
 
 Scoring
 
